@@ -1,4 +1,7 @@
 #include<bits/stdc++.h>
+#include <iostream>
+#include <vector>
+using namespace std;
 class Solution {
 public:
     int sumbyD(vector<int>&arr, int div){
