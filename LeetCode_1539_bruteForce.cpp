@@ -1,3 +1,5 @@
+// Here Time complexity will be O(N).
+// Space Complexity will be O(1).
 #include<bits/stdc++.h>
 #include <iostream>
 #include <vector>
